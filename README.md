@@ -10,7 +10,7 @@
 
 --lexAnalysis		词法分析器(原创)
 ---analyse.c 		词法分析器
----text.c		 	测试用例（被分析的C代码）
+---text.c		 测试用例（被分析的C代码）
 
 --lexSynAnalysis	语法分析器(转存)
 ---LexAnalysis.h	词法分析头文件
@@ -18,7 +18,8 @@
 ---LexAnalysis.cpp	词法分析Cpp文件
 ---SynAnalysis.cpp	语法分析Cpp代码
 ---main.cpp     	主文件
----test.txt			测试用例（被分析的C代码）
+---wenfa.txt		文法
+---test.txt		测试用例（被分析的C代码）
 ```
 
 
